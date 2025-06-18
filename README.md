@@ -1,4 +1,4 @@
-# vSIM CALC - Simple CLI Calculator in C
+# vSIM CALC - CLI Calculator in C (Simple)
 
 A lightweight, user-friendly calculator written in C, designed for basic arithmetic operations (`+`, `-`, `*`, `/`). This console-based program features a decorative ASCII user interface and handles errors like division by zero and unrecognized operators.
 
