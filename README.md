@@ -77,7 +77,6 @@ The calculator uses three main functions:
 
 **Md Parvej Husen Talukder**  
 Mostly known as ***Parvej Husen Talukder*** ***(Poet)***
-Website: [www.parvejhusentalukder.com](http://www.parvejhusentalukder.com)
 
 ##  License
 
